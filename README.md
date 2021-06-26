@@ -15,7 +15,7 @@
   usuários, o express para criar as rotas da aplicação, o typeorm para criar um banco de dados e o typeScript
 </p>
 
-# Algumas regras do projeto
+### Algumas regras do projeto
 - Cadastro de usuário
   
   - Não é permitido cadastrar mais de um usuário com o mesmo e-mail
