@@ -5,9 +5,9 @@
 <p> 
   Projeto desenvolvido durante a Next Level Week Together(NLW).<br>
   O Projeto NLW valoriza surgiu a partir da ideia de elogiar algum colega por causa de alguma
-  atitude dele, seja uma ajuda, um conhecelho ou algo que traga valor para outras pessoas. No 
-  Projeto é possível criar tags de elogios, cadastrar elogios, autenticar usuários, listar elogios e
-  listar usuários.
+  atitude dele, seja uma ajuda, um conhecelho ou alguma outra coisa que também agregue valor 
+  para outras pessoas. No Projeto é possível criar tags de elogios, cadastrar elogios, autenticar 
+  usuários, listar elogios e listar usuários.
 </p>
 
 <p> 
